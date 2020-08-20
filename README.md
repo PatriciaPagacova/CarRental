@@ -1,7 +1,7 @@
 # CarRental
 
 ## Description
-Application for car rental shop. The application supports insert/edit/remove of customers/cars/rentals and stores data into MS SQL database.
+An application for car rental shop. It supports insert/edit/remove of customers/cars/rentals and stores data into MS SQL database.
 
 ## Technology stack
 - C# 
